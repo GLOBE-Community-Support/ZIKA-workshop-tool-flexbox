@@ -1,0 +1,15 @@
+.workshop-tool {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+
+.workshop-tool p {
+    text-align: center;
+    max-width: 49%;
+}
+
+.workshop-tool p iframe {
+    max-width: 100%;
+}
